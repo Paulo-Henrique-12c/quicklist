@@ -6,4 +6,23 @@
 
 :root{
     font-family: "Inter", sans-serif;
+    font-size: 62.5%;
+
+    --background-primay: #F4F5F8;
+    --background-secunday: #fff;
+    --color-brand: #CA3884;
+    --color-brand-hover: #A52C6B;
+    --color-danger: #C93847;
+    --content-primary: #080B12;
+    --content-secunday: #374151;
+    --content-terciary: #9CA3Af;
+    --always-white: #FFF;
+    --border-primary: #D1D5Db;
+    --border-hover: #B9C2C0;
+     
+
+}
+
+body{
+    font-size: 1.6rem;
 }
