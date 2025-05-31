@@ -30,7 +30,8 @@ function showItemsList(){
                 <div class="custom-checkbox">
                     <img src="./assets/checked.svg" alt="checked">
                 </div>
-                <label for="item-${index}" onclick="checkItem('${item.name}')>${item.name}</label>
+                <label for="item-${index}" onclick="checkItem('${item.name}')">${item.name}</label>
+
                 </div>
                 <button>
                     <img src="./assets/trash-icon.svg" alt="trash icon">
