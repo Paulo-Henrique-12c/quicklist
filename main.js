@@ -72,3 +72,7 @@ showItemsList()
 function save(){
     localStorage.setItem("items")
 }
+
+function addHideWarningClass(){
+    document.querySelector(".warning").classList.add("hide-warning")
+}
